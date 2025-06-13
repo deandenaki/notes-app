@@ -15,7 +15,7 @@
         <!-- Sidebar -->
         <x-sidebar />
         <!-- Main content -->
-        <div id="main" class="mt-16 ml-64">
+        <div id="main" class="mt-16 ml-64 w-full h-full">
             <div class="px-2">
                 @yield('main')
             </div>
